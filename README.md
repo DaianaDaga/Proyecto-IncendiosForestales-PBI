@@ -5,12 +5,12 @@ Los incendios forestales son _incendios no planificados_ que se producen en zona
 Analizar de una manera exploratoria la _distribución espacial de los incendios forestales_ en Estados Unidos hacia el año 2020, en conjunto con la _ocurrencia de muertes y riesgo de daños a las propiedades_. Además, se propuso profundizar en un _análisis temporal_ (2000-2020) de la situación a nivel de _California y Oregon_, y uno más pormenorizado de este último a nivel general (2000-2020) y de condado (2003-2020).
 
 ## 💻La data
-- [Forest Service Research Data Archive](https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-records-6thedition)
-- [U.S. Fire Administration](https://www.usfa.fema.gov/statistics/deaths-injuries/states.html)
-- [RiskFactor](https://riskfactor.com/)
-- [Oregon Department of Forestry](https://data.oregon.gov/NaturalResources/ODF-Fire-Occurrence-Data-2000-2022/fbwv-q84y)
-- [U.S. Drought Monitor](https://droughtmonitor.unl.edu/DmData/DataDownload/StatisticsbyThreshold.aspx)
-- [Storm Events Database](https://www.ncdc.noaa.gov/stormevents/choosedates.jsp?statefips=41%2CORE%20GON)
+🔗[Forest Service Research Data Archive](https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-records-6thedition)
+🔗[U.S. Fire Administration](https://www.usfa.fema.gov/statistics/deaths-injuries/states.html)
+🔗[RiskFactor](https://riskfactor.com/)
+🔗[Oregon Department of Forestry](https://data.oregon.gov/NaturalResources/ODF-Fire-Occurrence-Data-2000-2022/fbwv-q84y)
+🔗[U.S. Drought Monitor](https://droughtmonitor.unl.edu/DmData/DataDownload/StatisticsbyThreshold.aspx)
+🔗[Storm Events Database](https://www.ncdc.noaa.gov/stormevents/choosedates.jsp?statefips=41%2CORE%20GON)
 
 ## 🛠️Herramientas utilizadas
 - **Power Query**: Transformación y limpieza.
